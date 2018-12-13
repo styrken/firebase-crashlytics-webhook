@@ -22,3 +22,5 @@ Note: This assumes that you have Crashlytics in Firebase. [Learn more about Cras
 
  1. Deploy your project using `firebase deploy`
  1. Simulate a test crash. [Instructions](https://firebase.google.com/docs/crashlytics/force-a-crash)
+
+## Enjoy
