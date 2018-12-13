@@ -4,7 +4,7 @@ Call a webhook when a new issue is reported in firebase crashlytics.
 
 Note: This assumes that you have Crashlytics in Firebase. [Learn more about Crashlytics](https://firebase.google.com/docs/crashlytics/)
 
-## Setting
+## Setting up
 
  Create and setup the Firebase project:
   1. Create a Firebase project using the [Firebase Developer Console](https://console.firebase.google.com).
