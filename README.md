@@ -8,7 +8,7 @@ Note: This assumes that you have Crashlytics in Firebase. [Learn more about Cras
 
  Create and setup the Firebase project:
   1. Create a Firebase project using the [Firebase Developer Console](https://console.firebase.google.com).
-  1. Enable Billing on your Firebase the project by switching to the **Blaze** or **Pay as you Go** plan, this is currently needed to be able to perform HTTP requests to external services from a Cloud Function.
+  1. Enable Billing on your Firebase by switching to the **Blaze** or **Pay as you Go** plan, this is currently needed to be able to perform HTTP requests to external services from a Cloud Function.
   1. Include [Crashlytics in your project](https://firebase.google.com/docs/crashlytics/get-started).
 
  Configuring the hook
