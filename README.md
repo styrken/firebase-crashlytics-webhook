@@ -1,3 +1,7 @@
+# Warning
+
+This code is outdated and no longer maintained. I was told sentry.io is a good looking alternative here.
+
 # Crashlytics Webhook
 
 Call a webhook when a new issue is reported in firebase crashlytics.
